@@ -17,7 +17,7 @@ const Dashboard = () => {
 
 
                 {/**right for content */}
-                <div className="bg-white min-h-[75vh] lg:ml-70 lg:-mt-[280px]">
+                <div className="bg-white min-h-[75vh] lg:ml-70 lg:-mt-[250px]">
 
                     <Outlet/>
                 </div>
